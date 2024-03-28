@@ -67,4 +67,5 @@ nav ul a {
 iframe {
     height: calc(100vh - 250px);
     border-radius: 10px;
+    margin-left: 10px;
 }
